@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  Sachin
+pool
+Sachin
 
 steps:
 - script: echo Hello, world!
