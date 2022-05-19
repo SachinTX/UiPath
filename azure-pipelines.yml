@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool
-Sachin
+  Sachin
 
 steps:
 - script: echo Hello, world!
